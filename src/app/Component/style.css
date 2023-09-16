@@ -1,0 +1,15 @@
+
+.name{
+    color: red;
+    font-size: 1.3rem;
+}
+
+.card{
+    border: 3px solid white;
+    margin:10px;
+    padding: 50px;
+}
+
+.cardContainer{
+    display: flex;
+}
